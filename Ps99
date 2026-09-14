@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KeLLo19/KHub/refs/heads/main/Coin%20Arcade%20Part%202"))()
